@@ -1,0 +1,13 @@
+{
+  "name": "noderemovestopwords",
+  "version"            : "0.0.1",	
+  "description": "A sample CLi program created to extract the keywords from a given file and output the keywords to a different file",
+  "url"               : "http://www.phloxblog.in",
+  "author": "Piyas De <piyas.de@gmail.com>",
+  "dependencies": {
+    "commander": "2.1.x",
+    "keyword-extractor": "0.0.7"	
+  },
+  "engine": "node >= 0.10.22",
+  "license"            : "BSD"
+}
